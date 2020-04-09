@@ -206,7 +206,6 @@ public class Main {
 
     }
     public static void main(String[] args) {
-	// write your code here
         double b = 1.5;
         double a = 15.5;
         double x = -2.8;
